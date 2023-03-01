@@ -1,9 +1,7 @@
 # Notion Workshop
 
   Welcome to this workshop about Notion!
-  
   It will help you to organize yourself with the Epitech Projects.
-  
   So, first you need to create your account in [Notion](https://notion.so)
 
 ## Getting Started
