@@ -28,7 +28,7 @@
 
   Click in "Add a page" in the sidebar and give it the name you want.
   
-  Above I will give you some examples about what you can add in your page.
+  Below I will give you some examples about what you can add in your page.
 
 ## Create a Calendar
 
