@@ -1,19 +1,24 @@
 # Notion Workshop
 
   Welcome to this workshop about Notion!
+  
   It will help you to organize yourself with the Epitech Projects.
+  
   So, first you need to create your account in [Notion](https://notion.so)
 
 ## Getting Started
 
   There is two ways to personalize your Notion: pre-built pages or creating your own page by yourself(the last one is nicer)
+  
   Let's do it...
 
 <details>
   <summary>Pre-built page</summary>
 
   If you don't want to take so many time creating your own, click in Templates in the sidebar, choose one of the many templates and then click "Get Template".
+  
   You will need to do some adjustment and add new things to have a good organization.
+  
   The next point may help you to complete your page.
 
 </details>
@@ -22,6 +27,7 @@
   <summary>Creating your own page</summary>
 
   Click in "Add a page" in the sidebar and give it the name you want.
+  
   Above I will give you some examples of what you can add in your page.
 
 ## Create a Calendar
