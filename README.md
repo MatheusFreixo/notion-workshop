@@ -68,6 +68,26 @@
 
 </details>
 
+## Activities
+<details>
+  <summary>First Activity</summary>
+
+  Create a workspace on Notion and personalize it as you want to organize yourself.
+  
+  **Mandatory requirements**
+  
+  * A gallery view with all the modules of the semester
+  * Create a page for a project of your choice and organize it as you want to help you with this project
+
+</details>
+
+<details>
+  <summary>Second Activity</summary>
+
+  In pairs, create a workspace for your team and choose a group project from Epitech to work on it and to organize yourselves.
+
+</details>
+
   If you have any question, feel free to ask me :D
 
 ### Collaborator
